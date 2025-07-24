@@ -5,6 +5,6 @@ This is a "Doraemon character drawing" created using pure HTML and CSS only – 
 ## 📂 Project Structure
 
 doraemon-drawing/
-├── index.html
-├── style.css
+├── doremoon.html
+├── doremoon.css
 └── README.md
